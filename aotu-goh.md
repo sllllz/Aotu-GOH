@@ -12,4 +12,4 @@
 
 5.图集使用spriteatlas，使用路径约束，不用单独打图集
 
-6.安卓ios真机包调试替换文件工具（https://github.com/yuyang158/AdbTool），安卓使用adb，ios使用tidevice（https://github.com/alibaba/taobao-iphone-device）
+6.安卓ios真机包调试替换文件工具(https://github.com/yuyang158/AdbTool)，安卓使用adb，ios使用tidevice(https://github.com/alibaba/taobao-iphone-device)

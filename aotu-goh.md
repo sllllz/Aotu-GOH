@@ -14,4 +14,4 @@
 
 6.安卓ios真机包调试替换文件工具(https://github.com/yuyang158/AdbTool)，安卓使用adb，ios使用tidevice(https://github.com/alibaba/taobao-iphone-device)
 
-7.使用mvvm (https://github.com/vovgou/loxodon-framework)，绑定代码和组件在prefab上，避免获取组件和资源的硬编码。缺点是需要在prefab挂各种组件，不方便与资源策划同时修改。
+7.使用mvvm(https://github.com/vovgou/loxodon-framework)，绑定代码和组件在prefab上，避免获取组件和资源的硬编码。缺点是需要在prefab挂各种组件，不方便与资源策划同时修改。
